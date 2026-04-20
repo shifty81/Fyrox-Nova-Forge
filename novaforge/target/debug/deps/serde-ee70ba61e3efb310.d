@@ -1,0 +1,14 @@
+/home/runner/work/Fyrox-Nova-Forge/Fyrox-Nova-Forge/novaforge/target/debug/deps/serde-ee70ba61e3efb310.d: /home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/runner/work/Fyrox-Nova-Forge/Fyrox-Nova-Forge/novaforge/target/debug/build/serde-70af322f9c094d48/out/private.rs
+
+/home/runner/work/Fyrox-Nova-Forge/Fyrox-Nova-Forge/novaforge/target/debug/deps/libserde-ee70ba61e3efb310.rlib: /home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/runner/work/Fyrox-Nova-Forge/Fyrox-Nova-Forge/novaforge/target/debug/build/serde-70af322f9c094d48/out/private.rs
+
+/home/runner/work/Fyrox-Nova-Forge/Fyrox-Nova-Forge/novaforge/target/debug/deps/libserde-ee70ba61e3efb310.rmeta: /home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/runner/work/Fyrox-Nova-Forge/Fyrox-Nova-Forge/novaforge/target/debug/build/serde-70af322f9c094d48/out/private.rs
+
+/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/home/runner/work/Fyrox-Nova-Forge/Fyrox-Nova-Forge/novaforge/target/debug/build/serde-70af322f9c094d48/out/private.rs:
+
+# env-dep:OUT_DIR=/home/runner/work/Fyrox-Nova-Forge/Fyrox-Nova-Forge/novaforge/target/debug/build/serde-70af322f9c094d48/out

@@ -1,0 +1,9 @@
+[package]
+name = "executor"
+version = "0.1.0"
+edition = "2021"
+description = "Standalone game runner for NovaForge"
+
+[dependencies]
+fyrox = { workspace = true }
+novaforge = { path = "../game" }

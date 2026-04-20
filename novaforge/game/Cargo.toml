@@ -1,0 +1,12 @@
+[package]
+name = "novaforge"
+version = "0.1.0"
+edition = "2021"
+description = "NovaForge — a PvE-focused sci-fi space MMO built on the Fyrox engine"
+
+[dependencies]
+fyrox = { workspace = true }
+
+[features]
+default = ["fyrox/default"]
+dylib-engine = ["fyrox/dylib"]

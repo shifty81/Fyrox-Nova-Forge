@@ -1,0 +1,13 @@
+[workspace]
+members = ["game", "executor"]
+resolver = "2"
+
+[workspace.dependencies.fyrox]
+path = "../fyrox"
+version = "2.0.0-rc.1"
+default-features = false
+
+# Optimize engine crates in debug builds while leaving game code unoptimized.
+# This keeps compile times fast in debug mode while keeping the engine performant.
+[profile.dev.package."*"]
+opt-level = 3

@@ -1,0 +1,14 @@
+/home/runner/work/Fyrox-Nova-Forge/Fyrox-Nova-Forge/novaforge/target/debug/deps/glamx-2d53e050df36bc18.d: /home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glamx-0.1.3/src/lib.rs /home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glamx-0.1.3/src/eigen2.rs /home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glamx-0.1.3/src/eigen3.rs /home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glamx-0.1.3/src/matrix_ext.rs /home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glamx-0.1.3/src/pose2.rs /home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glamx-0.1.3/src/pose3.rs /home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glamx-0.1.3/src/rot2.rs /home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glamx-0.1.3/src/rot3.rs /home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glamx-0.1.3/src/svd2.rs /home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glamx-0.1.3/src/svd3.rs
+
+/home/runner/work/Fyrox-Nova-Forge/Fyrox-Nova-Forge/novaforge/target/debug/deps/libglamx-2d53e050df36bc18.rmeta: /home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glamx-0.1.3/src/lib.rs /home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glamx-0.1.3/src/eigen2.rs /home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glamx-0.1.3/src/eigen3.rs /home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glamx-0.1.3/src/matrix_ext.rs /home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glamx-0.1.3/src/pose2.rs /home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glamx-0.1.3/src/pose3.rs /home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glamx-0.1.3/src/rot2.rs /home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glamx-0.1.3/src/rot3.rs /home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glamx-0.1.3/src/svd2.rs /home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glamx-0.1.3/src/svd3.rs
+
+/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glamx-0.1.3/src/lib.rs:
+/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glamx-0.1.3/src/eigen2.rs:
+/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glamx-0.1.3/src/eigen3.rs:
+/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glamx-0.1.3/src/matrix_ext.rs:
+/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glamx-0.1.3/src/pose2.rs:
+/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glamx-0.1.3/src/pose3.rs:
+/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glamx-0.1.3/src/rot2.rs:
+/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glamx-0.1.3/src/rot3.rs:
+/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glamx-0.1.3/src/svd2.rs:
+/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glamx-0.1.3/src/svd3.rs:

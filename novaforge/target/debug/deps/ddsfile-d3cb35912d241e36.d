@@ -1,0 +1,12 @@
+/home/runner/work/Fyrox-Nova-Forge/Fyrox-Nova-Forge/novaforge/target/debug/deps/ddsfile-d3cb35912d241e36.d: /home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ddsfile-0.5.2/src/lib.rs /home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ddsfile-0.5.2/src/error.rs /home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ddsfile-0.5.2/src/format/mod.rs /home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ddsfile-0.5.2/src/format/pixel_format.rs /home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ddsfile-0.5.2/src/format/d3d.rs /home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ddsfile-0.5.2/src/format/dxgi.rs /home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ddsfile-0.5.2/src/header.rs /home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ddsfile-0.5.2/src/header10.rs
+
+/home/runner/work/Fyrox-Nova-Forge/Fyrox-Nova-Forge/novaforge/target/debug/deps/libddsfile-d3cb35912d241e36.rmeta: /home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ddsfile-0.5.2/src/lib.rs /home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ddsfile-0.5.2/src/error.rs /home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ddsfile-0.5.2/src/format/mod.rs /home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ddsfile-0.5.2/src/format/pixel_format.rs /home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ddsfile-0.5.2/src/format/d3d.rs /home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ddsfile-0.5.2/src/format/dxgi.rs /home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ddsfile-0.5.2/src/header.rs /home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ddsfile-0.5.2/src/header10.rs
+
+/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ddsfile-0.5.2/src/lib.rs:
+/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ddsfile-0.5.2/src/error.rs:
+/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ddsfile-0.5.2/src/format/mod.rs:
+/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ddsfile-0.5.2/src/format/pixel_format.rs:
+/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ddsfile-0.5.2/src/format/d3d.rs:
+/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ddsfile-0.5.2/src/format/dxgi.rs:
+/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ddsfile-0.5.2/src/header.rs:
+/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ddsfile-0.5.2/src/header10.rs:

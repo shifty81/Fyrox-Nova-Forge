@@ -1,4 +1,5 @@
 /target
+/novaforge/target
 **/*.rs.bk
 /cloc
 *.lock

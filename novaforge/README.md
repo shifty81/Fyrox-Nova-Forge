@@ -5,7 +5,7 @@ NovaForge is a PvE-focused sci-fi space MMO inspired by EVE Online, now built on
 
 ## Overview
 
-Nova Forge is a cooperative space game for small groups (2–20 players). Core gameplay:
+NovaForge is a cooperative space game for small groups (2–20 players). Core gameplay:
 
 - **Ship system** — Frigates, Destroyers, Cruisers, Battlecruisers, Battleships
 - **Slot fitting** — High / Mid / Low slots; turret and launcher hardpoints

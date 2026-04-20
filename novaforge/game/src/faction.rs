@@ -14,7 +14,7 @@ pub enum Faction {
     // Playable empire factions
     AmarrEmpire,
     CaldariState,
-    GallenteRFederation,
+    GallenteFederation,
     MinmatarRepublic,
 
     // NPC pirate factions
@@ -38,7 +38,7 @@ impl Faction {
         match self {
             Faction::AmarrEmpire => "Amarr Empire",
             Faction::CaldariState => "Caldari State",
-            Faction::GallenteRFederation => "Gallente Federation",
+            Faction::GallenteFederation => "Gallente Federation",
             Faction::MinmatarRepublic => "Minmatar Republic",
             Faction::Serpentis => "Serpentis",
             Faction::Guristas => "Guristas Pirates",
@@ -81,7 +81,7 @@ impl Default for FactionStandings {
         // Start at neutral (0.0) for empire factions, slightly negative for pirates.
         s.set(Faction::AmarrEmpire, 0.0);
         s.set(Faction::CaldariState, 0.0);
-        s.set(Faction::GallenteRFederation, 0.0);
+        s.set(Faction::GallenteFederation, 0.0);
         s.set(Faction::MinmatarRepublic, 0.0);
         s.set(Faction::Serpentis, -2.0);
         s.set(Faction::Guristas, -2.0);
